@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 12, 2017, 10:01:22 PM
+    Author     : amplifia
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+    background: #e6f2ff;
+    font-family: 'phosphate', sans-serif;
+    font-size: 65px;
+    color: lightslategray;
+    padding: 0;
+    text-align: center;
+}
+.github {
+    
+}
+.div2 {
+	color: #9f9;
+}
