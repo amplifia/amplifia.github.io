@@ -12,17 +12,34 @@ and open the template in the editor.
 	margin: 0;
 	padding: 0;
 }
+/*
+Set some defaults for site.
+*/
 body {
     background: #e6f2ff;
     font-family: 'phosphate', sans-serif;
-    font-size: 65px;
+    font-size: 75px;
     color: lightslategray;
     padding: 0;
     text-align: center;
 }
+a {
+    text-decoration: none;
+    color: lightslategray;
+}
+div
+{
+    margin: 1em;
+}
+.projects{   
+}
 .github {
     
 }
-.div2 {
-	color: #9f9;
+.inquire {
+    
+}
+div a:hover {
+    
+    color: lightgray;
 }
