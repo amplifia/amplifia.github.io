@@ -31,15 +31,7 @@ div
 {
     margin: 1em;
 }
-.projects{   
-}
-.github {
-    
-}
-.inquire {
-    
-}
-div a:hover {
+a:hover {
     
     color: lightgray;
 }
